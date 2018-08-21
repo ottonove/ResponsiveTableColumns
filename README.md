@@ -1,2 +1,0 @@
-# ResponsiveTableColumns
-Created with CodeSandbox
